@@ -1,4 +1,4 @@
-# Простой workflow для развёртывания статического содержимого на GitHub Pages
+# Простой workflow для развёртывания статического содержимого на GitHub Page
 name: Deploy static content to Pages
 on:
   # Триггером выступает push в ветку master
